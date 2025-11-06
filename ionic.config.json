@@ -1,0 +1,7 @@
+{
+  "name": "campuspark",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
